@@ -1,0 +1,17 @@
+streamlit
+pandas
+numpy
+sqlalchemy
+psycopg2-binary
+pymysql
+snowflake-connector-python
+google-cloud-bigquery
+redshift-connector
+databricks-sql-connector
+great-expectations
+prophet
+plotly
+networkx
+requests
+smtplib
+python-dotenv
